@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.nav.category.Supported OSes": {
+    "message": "Supported OSes",
+    "description": "The label for category Supported OSes in sidebar nav"
+  }
+}

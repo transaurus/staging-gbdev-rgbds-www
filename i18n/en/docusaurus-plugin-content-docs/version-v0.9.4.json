@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "v0.9.4",
+    "description": "The label for version v0.9.4"
+  },
+  "sidebar.nav.category.Language reference": {
+    "message": "Language reference",
+    "description": "The label for category Language reference in sidebar nav"
+  },
+  "sidebar.nav.category.Command-line options": {
+    "message": "Command-line options",
+    "description": "The label for category Command-line options in sidebar nav"
+  },
+  "sidebar.nav.doc.Assembly syntax": {
+    "message": "Assembly syntax",
+    "description": "The label for the doc item Assembly syntax in sidebar nav, linking to the doc rgbasm.5"
+  },
+  "sidebar.nav.doc.CPU instructions": {
+    "message": "CPU instructions",
+    "description": "The label for the doc item CPU instructions in sidebar nav, linking to the doc gbz80.7"
+  },
+  "sidebar.nav.doc.Obsolete syntax": {
+    "message": "Obsolete syntax",
+    "description": "The label for the doc item Obsolete syntax in sidebar nav, linking to the doc rgbasm-old.5"
+  },
+  "sidebar.nav.doc.Linkerscript format": {
+    "message": "Linkerscript format",
+    "description": "The label for the doc item Linkerscript format in sidebar nav, linking to the doc rgblink.5"
+  },
+  "sidebar.nav.doc.Object file format": {
+    "message": "Object file format",
+    "description": "The label for the doc item Object file format in sidebar nav, linking to the doc rgbds.5"
+  },
+  "sidebar.nav.doc.RGBASM": {
+    "message": "RGBASM",
+    "description": "The label for the doc item RGBASM in sidebar nav, linking to the doc rgbasm.1"
+  },
+  "sidebar.nav.doc.RGBLINK": {
+    "message": "RGBLINK",
+    "description": "The label for the doc item RGBLINK in sidebar nav, linking to the doc rgblink.1"
+  },
+  "sidebar.nav.doc.RGBFIX": {
+    "message": "RGBFIX",
+    "description": "The label for the doc item RGBFIX in sidebar nav, linking to the doc rgbfix.1"
+  },
+  "sidebar.nav.doc.RGBGFX": {
+    "message": "RGBGFX",
+    "description": "The label for the doc item RGBGFX in sidebar nav, linking to the doc rgbgfx.1"
+  },
+  "sidebar.nav.doc.History": {
+    "message": "History",
+    "description": "The label for the doc item History in sidebar nav, linking to the doc rgbds.7"
+  }
+}
