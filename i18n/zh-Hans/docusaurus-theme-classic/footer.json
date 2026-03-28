@@ -1,0 +1,54 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.GB ASM Tutorial": {
+    "message": "GB ASM Tutorial",
+    "description": "The label of footer link with label=GB ASM Tutorial linking to https://gbdev.io/gb-asm-tutorial/"
+  },
+  "link.item.label.Game Boy technical reference": {
+    "message": "Game Boy technical reference",
+    "description": "The label of footer link with label=Game Boy technical reference linking to https://gbdev.io/pandocs"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Privacy Policy",
+    "description": "The label of footer link with label=Privacy Policy linking to https://gbdev.io/privacypolicy"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://gbdev.io/chat.html"
+  },
+  "link.item.label.Mastodon": {
+    "message": "Mastodon",
+    "description": "The label of footer link with label=Mastodon linking to https://fedi.gbdev.io/@gbdev"
+  },
+  "link.item.label.Bluesky": {
+    "message": "Bluesky",
+    "description": "The label of footer link with label=Bluesky linking to https://bsky.app/profile/gbdev.io"
+  },
+  "link.item.label.Donate on OpenCollective": {
+    "message": "Donate on OpenCollective",
+    "description": "The label of footer link with label=Donate on OpenCollective linking to https://opencollective.com/gbdev"
+  },
+  "link.item.label.Homebrew Games": {
+    "message": "Homebrew Games",
+    "description": "The label of footer link with label=Homebrew Games linking to https://hh.gbdev.io/"
+  },
+  "link.item.label.Game Boy Development resources": {
+    "message": "Game Boy Development resources",
+    "description": "The label of footer link with label=Game Boy Development resources linking to https://gbdev.io/resources.html"
+  },
+  "copyright": {
+    "message": "Game Boy is a registered trademark. This project is not endorsed by Nintendo.<br/> Copyright © 1997-2026 <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/gbdev/rgbds/graphs/contributors\">RGBDS contributors</a>.",
+    "description": "The footer copyright"
+  }
+}

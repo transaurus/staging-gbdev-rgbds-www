@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "RGBDS",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "RGBDS logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Resources": {
+    "message": "Resources",
+    "description": "Navbar item with label Resources"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  },
+  "item.label.Install": {
+    "message": "Install",
+    "description": "Navbar item with label Install"
+  }
+}

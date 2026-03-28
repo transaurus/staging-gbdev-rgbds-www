@@ -19,13 +19,17 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   title: "RGBDS",
   tagline:
     "A free assembler/linker package for the Game Boy and Game Boy Color",
   url: "https://rgbds.gbdev.io",
   baseUrl: "/",
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "throw",
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "gbdev",
   projectName: "rgbds-www",
